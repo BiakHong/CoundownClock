@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(81, 71, 99);
+}
+h1 {
+    text-align: center;
+    color: wheat;
+}
+
+h2 {
+    align-items: center;
+    text-align: center;
+    color: rgb(179, 245, 235);
+}
+
+
+.cTimes{
+    align-items: center;
+    background-color: rgb(9, 9, 9, 0.25);
+    text-align: center;
+
+    
+}
+.current{
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+
+}
+.countingDown{
+    text-align: center;
+}
+.days{
+    text-align:center;
+    display: inline-block;
+    
+}
+.hours{
+    text-align:center;
+    display: inline-block;
+}
+.minutes{
+    text-align:center;
+    display: inline-block;
+}
+
+.seconds{
+    text-align:center;
+    display: inline-block;
+}
+
+.time{
+    background-color: rgba(0, 0, 0, 0.20);
+    margin-left: 24ch;
+    margin-right: 24ch;
+    padding-top: 0.5ch;
+}
